@@ -184,15 +184,15 @@ $(function() {
 
      // Lang
 
-    $('.lang-toggler').click(function() {
-        $(this).toggleClass('active');
-        $('.lang').toggleClass('open');
-    });
+    // $('.lang-toggler').click(function() {
+    //     $(this).toggleClass('active');
+    //     $('.lang').toggleClass('open');
+    // });
 
-    $('.footer-lang__toggler').click(function() {
-        $(this).toggleClass('active');
-        $('.footer-lang__drop').toggleClass('open');
-    });
+    // $('.footer-lang__toggler').click(function() {
+    //     $(this).toggleClass('active');
+    //     $('.footer-lang__drop').toggleClass('open');
+    // });
 
     
     // SCROLL TO ANY SECTION
