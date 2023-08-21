@@ -363,7 +363,7 @@ $(function() {
     // ANIMATIONS
 
     AOS.init({
-        offset: 300,
+        offset: 100,
         duration: 1200,
         easing: 'ease-out-back',
         once: true, 
