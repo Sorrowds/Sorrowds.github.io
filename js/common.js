@@ -359,4 +359,15 @@ $(function() {
         }, ]
     })
 
+
+    // ANIMATIONS
+
+    AOS.init({
+        offset: 300,
+        duration: 1200,
+        easing: 'ease-out-back',
+        once: true, 
+        disable: 'mobile', 
+    });
+
 });
