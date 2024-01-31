@@ -1,0 +1,14 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Property 1=fb-hover" clip-path="url(#clip0_1186_23957)">
+<path id="Vector" d="M28.0004 14C28.0004 6.26801 21.7323 0 14.0002 0C6.26809 0 0 6.26801 0 14C0 20.9877 5.11963 26.7796 11.8126 27.8299V18.0469H8.25792V14H11.8126V10.9156C11.8126 7.40688 13.9028 5.46875 17.1007 5.46875C18.632 5.46875 20.2346 5.74219 20.2346 5.74219V9.1875H18.4693C16.7302 9.1875 16.1877 10.2668 16.1877 11.375V14H20.0706L19.4499 18.0469H16.1877V27.8299C22.8807 26.7796 28.0004 20.9877 28.0004 14Z" fill="url(#paint0_linear_1186_23957)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1186_23957" x1="14.0002" y1="0" x2="14.0002" y2="27.8299" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D5A7FF"/>
+<stop offset="1" stop-color="#BB70FF"/>
+</linearGradient>
+<clipPath id="clip0_1186_23957">
+<rect width="28.0004" height="28" fill="white"/>
+</clipPath>
+</defs>
+</svg>
